@@ -1,0 +1,9 @@
+D:\C#\SerialPortSENDUTF8\bin\Debug\SerialPortSENDUTF8.exe.config
+D:\C#\SerialPortSENDUTF8\bin\Debug\SerialPortSENDUTF8.exe
+D:\C#\SerialPortSENDUTF8\bin\Debug\SerialPortSENDUTF8.pdb
+D:\C#\SerialPortSENDUTF8\obj\Debug\SerialPortSENDUTF8.csprojAssemblyReference.cache
+D:\C#\SerialPortSENDUTF8\obj\Debug\SerialPortSENDUTF8.Form1.resources
+D:\C#\SerialPortSENDUTF8\obj\Debug\SerialPortSENDUTF8.Properties.Resources.resources
+D:\C#\SerialPortSENDUTF8\obj\Debug\SerialPortSENDUTF8.csproj.GenerateResource.cache
+D:\C#\SerialPortSENDUTF8\obj\Debug\SerialPortSENDUTF8.exe
+D:\C#\SerialPortSENDUTF8\obj\Debug\SerialPortSENDUTF8.pdb

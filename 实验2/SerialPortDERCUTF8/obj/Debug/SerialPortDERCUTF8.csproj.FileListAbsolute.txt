@@ -1,0 +1,9 @@
+D:\C#\SerialPortDERCUTF8\obj\Debug\SerialPortDERCUTF8.csprojAssemblyReference.cache
+D:\C#\SerialPortDERCUTF8\obj\Debug\SerialPortDERCUTF8.Form1.resources
+D:\C#\SerialPortDERCUTF8\obj\Debug\SerialPortDERCUTF8.Properties.Resources.resources
+D:\C#\SerialPortDERCUTF8\obj\Debug\SerialPortDERCUTF8.csproj.GenerateResource.cache
+D:\C#\SerialPortDERCUTF8\bin\Debug\SerialPortDERCUTF8.exe.config
+D:\C#\SerialPortDERCUTF8\bin\Debug\SerialPortDERCUTF8.exe
+D:\C#\SerialPortDERCUTF8\bin\Debug\SerialPortDERCUTF8.pdb
+D:\C#\SerialPortDERCUTF8\obj\Debug\SerialPortDERCUTF8.exe
+D:\C#\SerialPortDERCUTF8\obj\Debug\SerialPortDERCUTF8.pdb
