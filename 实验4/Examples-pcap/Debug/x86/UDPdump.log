@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (D:\winpcap\WpdPack\Examples-pcap\\Debug\x86\) contains files shared from another project (basic_dump.vcxproj, basic_dump_ex.vcxproj, iflist.vcxproj, pcap_filter.vcxproj, pktdump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, sendpack.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  udpdump.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+D:\winpcap\WpdPack\Examples-pcap\UDPdump\udpdump.cpp(166,29): warning C4100: “param”: 未引用的形参
+D:\winpcap\WpdPack\Examples-pcap\UDPdump\udpdump.cpp(170,13): warning C4101: “ih”: 未引用的局部变量
+D:\winpcap\WpdPack\Examples-pcap\UDPdump\udpdump.cpp(171,14): warning C4101: “uh”: 未引用的局部变量
+D:\winpcap\WpdPack\Examples-pcap\UDPdump\udpdump.cpp(173,10): warning C4101: “sport”: 未引用的局部变量
+D:\winpcap\WpdPack\Examples-pcap\UDPdump\udpdump.cpp(172,8): warning C4101: “ip_len”: 未引用的局部变量
+D:\winpcap\WpdPack\Examples-pcap\UDPdump\udpdump.cpp(173,17): warning C4101: “dport”: 未引用的局部变量
+D:\winpcap\WpdPack\Examples-pcap\UDPdump\udpdump.cpp(233,6): warning C4189: “length”: 局部变量已初始化但不引用
+D:\winpcap\WpdPack\Examples-pcap\UDPdump\udpdump.cpp(275,6): warning C4189: “length”: 局部变量已初始化但不引用
+  UDPdump.vcxproj -> D:\winpcap\WpdPack\Examples-pcap\\Debug\x86\UDPdump.exe

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (D:\360MoveData\Users\ASUS\Desktop\WpdPack_4_1_2\WpdPack\Examples-pcap\\Debug\x86\) contains files shared from another project (basic_dump.vcxproj, basic_dump_ex.vcxproj, iflist.vcxproj, pcap_filter.vcxproj, pktdump_ex.vcxproj, readfile_ex.vcxproj, UDPdump.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sendpack.c
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+sendpack.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  sendpack.vcxproj -> D:\360MoveData\Users\ASUS\Desktop\WpdPack_4_1_2\WpdPack\Examples-pcap\\Debug\x86\sendpack.exe

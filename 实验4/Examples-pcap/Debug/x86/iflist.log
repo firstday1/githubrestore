@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (D:\360MoveData\Users\ASUS\Desktop\WpdPack_4_1_2\WpdPack\Examples-pcap\\Debug\x86\) contains files shared from another project (basic_dump.vcxproj, UDPdump.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  iflist.c
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+D:\360MoveData\Users\ASUS\Desktop\WpdPack_4_1_2\WpdPack\Examples-pcap\iflist\iflist.c : fatal error C1041: 无法打开程序数据库“D:\360MoveData\Users\ASUS\Desktop\WpdPack_4_1_2\WpdPack\Examples-pcap\Debug\x86\vc142.pdb”；如果要将多个 CL.EXE 写入同一个 .PDB 文件，请使用 /FS
+cl : 命令行 warning D9028: 最小重新生成失败，正在转换为标准生成
